@@ -7,10 +7,8 @@ const assets = [
   "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css",
   "/nfl.png",
   "/form.html",
-  "/bootstrap.css",
-  "/sw.js",
-  "/sweetalert.js",
-  "/sweetalert.css"
+
+  "/sw.js"
 ];
 
 self.addEventListener("install", installEvent => {
